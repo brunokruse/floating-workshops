@@ -84,22 +84,59 @@
 
 <br/>
 <br/>
+
 ## Example IoT Applications
+
+
 * IoT sensor hub
+
+
 * IoT data loggers
+
+
 * Video streaming from camera
+
+
 * Audio streaming devices
+
 * Wi-Fi enabled toys
+
+
 * Proximity sensing toys
+
+
 * Wi-Fi enabled speech recognition devices
+
+
 * Audio headsets (AVRCP, A2DP)
+
+
 * Smart power plugs
+
+
 * Home automation
+
+
 * Mesh network
+
+
 * Industrial wireless control
+
+
 * Baby monitors
+
+
 * Wearable electronics
+
+
 * Wi-Fi location-aware devices
+
+
 * Security ID tags
+
+
 * Proximity and movement-monitoring trigger devices
+
+
 * Temperature sensing loggers
+
