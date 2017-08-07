@@ -5,7 +5,7 @@
 
 
 ## Contents
-![image](/Users/vox/Documents/Floating Workshops/readme-images/fw-contents.jpg)
+![image](https://github.com/brunokruse/floating-workshops/blob/master/img/fw-contents.png?raw=true)
 
 * Astronaught
 * New Lab IoT Board
