@@ -20,7 +20,7 @@
 <br/>
 
 ## The New Lab IoT Prototyping Board
-![image](/Users/vox/Documents/Floating Workshops/20170802_ComponentPhotography/IMG_0903_edit.jpg)
+![image](https://github.com/brunokruse/floating-workshops/blob/master/img/fw-board.jpg?raw=true)
 
 ### Geek out on Techincal Specifications
 
@@ -60,12 +60,12 @@
 <br/>
 
 ## Sensors
-![image](/Users/vox/Documents/Floating Workshops/20170802_ComponentPhotography/IMG_0902_edit.png)
+![image](https://github.com/brunokruse/floating-workshops/blob/master/img/fw-sensors.png?raw=true)
 
 
 |  PPG (Photoplethysmogram) |  Piezo |
 |:--|:--|
-| ![image](/Users/vox/Documents/Floating Workshops/readme-images/ppg.jpg)  | ![image](/Users/vox/Documents/Floating Workshops/readme-images/piezo.jpg)  |
+| ![image](https://github.com/brunokruse/floating-workshops/blob/master/img/ppg.jpg?raw=true)  | ![image](https://github.com/brunokruse/floating-workshops/blob/master/img/piezo.jpg?raw=true)  |
 |  A PPG is often obtained by using a pulse oximeter which illuminates the skin and measures changes in light absorption. A conventional pulse oximeter monitors the perfusion of blood to the dermis and subcutaneous tissue of the skin. |  Piezoelectricity is found in useful applications, such as the production and detection of sound, generation of high voltages, electronic frequency generation, microbalances, to drive an ultrasonic nozzle, and ultrafine focusing of optical assemblies. |
 
 
@@ -73,14 +73,14 @@
 <br/>
 
 ## Assembly
-![image](/Users/vox/Documents/Floating Workshops/20170802_ComponentPhotography/IMG_0916_edit.png)
+![image](https://github.com/brunokruse/floating-workshops/blob/master/img/fw-assembly.png?raw=true)
 
 
 <br/>
 <br/>
 
 ## Schematics / BOM
-![image](/Users/vox/Documents/Floating Workshops/readme-images/sketch.png)
+![image](https://github.com/brunokruse/floating-workshops/blob/master/img/sketch.png?raw=true)
 
 <br/>
 <br/>
